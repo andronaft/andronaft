@@ -1,3 +1,3 @@
 <div align="center">
-	<img src="https://github.com/andronaft/andronaft/main.gif" alt="YO">
+	<img src="https://github.com/andronaft/andronaft/blob/main/main.gif" alt="YO">
 </div>
