@@ -52,11 +52,11 @@ A browser extension: colored levels, stack traces that stick together, field fil
 ### 📦 Latest releases
 
 <!-- LATEST:START -->
+- 🚀 **[Logbeam v0.8.0](https://github.com/andronaft/Logbeam/releases/tag/v0.8.0)** · 2026-10-15
 - 🚀 **[Logbeam v0.7.0](https://github.com/andronaft/Logbeam/releases/tag/v0.7.0)** · 2026-10-13
 - 🚀 **[Logbeam v0.6.0](https://github.com/andronaft/Logbeam/releases/tag/v0.6.0)** · 2026-10-13
 - 🚀 **[k8s-guardian v0.7.0](https://github.com/andronaft/k8s-guardian/releases/tag/v0.7.0)** · 2026-10-12
 - 🚀 **[k8s-guardian v0.6.0](https://github.com/andronaft/k8s-guardian/releases/tag/v0.6.0)** · 2026-10-11
-- 🚀 **[Logbeam v0.5.0](https://github.com/andronaft/Logbeam/releases/tag/v0.5.0)** · 2026-10-04
 <!-- LATEST:END -->
 
 ### 🧪 What I'm into
