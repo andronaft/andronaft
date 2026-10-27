@@ -76,3 +76,18 @@ A browser extension: colored levels, stack traces that stick together, field fil
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andronaft&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="150">
 </div>
+
+### 📱 Building right now: mobile apps, and I need testers
+
+On the side I'm building about two dozen small Flutter apps for Android and iOS, published as **Dre Dev**. Each one does one job well: focus and fasting timers, calculators and PDF quotes for trades (electricians, painters, roofers, HVAC, pools, concrete), and logs for hobbies (sourdough, soap, knitting, beekeeping, aquariums, coffee). No accounts, no ads, and the data stays on your phone.
+
+**Google Play needs testers before a new developer can publish:** at least 12 people who keep the app installed for 14 days. If you have an Android phone, it takes two minutes:
+
+1. Join the [testers group](https://groups.google.com/g/test-dre-application). One group covers all my apps, and you can mute it.
+2. Open the [testers page](https://zhukovskyi.space/testers/) on your phone, tap "Become a tester" and install the app from Google Play.
+3. Keep it installed for 14 days. Opening it now and then helps a lot.
+
+<p>
+  <a href="https://groups.google.com/g/test-dre-application"><img src="https://img.shields.io/badge/Become_a_tester-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Become a tester"></a>
+  <a href="https://zhukovskyi.space/apps/"><img src="https://img.shields.io/badge/See_all_apps-zhukovskyi.space%2Fapps-36BCF7?style=for-the-badge" alt="See all apps"></a>
+</p>
