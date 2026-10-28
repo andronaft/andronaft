@@ -2,7 +2,7 @@
 
 <img src="main.gif" alt="hi" width="180">
 
-<img src="assets/marquee.svg" alt="Hi, I'm Andrii 👋 I build guardrails for Kubernetes, MCP servers for AI agents, and tools that make logs readable again" width="180">
+<img src="assets/marquee.svg" alt="Hi, I'm Andrii 👋 I build guardrails for Kubernetes, MCP servers for AI agents, and tools that make logs readable again" width="560">
 
 </div>
 
