@@ -16,12 +16,12 @@ TEXT = (
     "  ◆  and tools that make logs readable again"
 )
 
-COLS = 64          # visible columns of the display
+COLS = 104         # visible columns of the display
 ROWS = 7           # font height
 PAD_ROWS = 1       # off-dots padding above/below the text
 PAD_COLS = 1       # off-dots padding left/right
-BEZEL = 0.9        # dark frame around the dot grid, in cells
-STEPS_PER_SEC = 28 # scroll speed
+BEZEL = 0.6        # dark frame around the dot grid, in cells
+STEPS_PER_SEC = 48 # scroll speed
 
 LIT = "#ffb13b"
 CORE = "#ffd27a"
