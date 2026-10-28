@@ -2,7 +2,7 @@
 
 <img src="main.gif" alt="hi" width="180">
 
-<a href="https://github.com/andronaft"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Andrii+%F0%9F%91%8B;I+build+guardrails+for+Kubernetes;MCP+servers+for+AI+agents;and+tools+that+make+logs+readable+again" alt="Typing intro"></a>
+<img src="assets/marquee.svg" alt="Hi, I'm Andrii 👋 I build guardrails for Kubernetes, MCP servers for AI agents, and tools that make logs readable again" width="180">
 
 </div>
 
