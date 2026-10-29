@@ -57,10 +57,10 @@ A browser extension and web app with 22 tools: crop, resize, compress, HEIC → 
 </table>
 
 <div align="center">
-  <a href="https://github.com/andronaft/k8s-guardian"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andronaft&repo=k8s-guardian&theme=tokyonight&hide_border=true" alt="k8s-guardian"></a>
-  <a href="https://github.com/andronaft/health-os"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andronaft&repo=health-os&theme=tokyonight&hide_border=true" alt="health-os"></a>
-  <a href="https://github.com/andronaft/Logbeam"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andronaft&repo=Logbeam&theme=tokyonight&hide_border=true" alt="Logbeam"></a>
-  <a href="https://github.com/andronaft/FileForge"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andronaft&repo=FileForge&theme=tokyonight&hide_border=true" alt="FileForge"></a>
+  <a href="https://github.com/andronaft/k8s-guardian"><img src="assets/cards/k8s-guardian.svg" alt="k8s-guardian"></a>
+  <a href="https://github.com/andronaft/health-os"><img src="assets/cards/health-os.svg" alt="health-os"></a>
+  <a href="https://github.com/andronaft/Logbeam"><img src="assets/cards/Logbeam.svg" alt="Logbeam"></a>
+  <a href="https://github.com/andronaft/FileForge"><img src="assets/cards/FileForge.svg" alt="FileForge"></a>
 </div>
 
 ### 📦 Latest releases

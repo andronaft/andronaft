@@ -1,4 +1,4 @@
-name: Update latest releases
+name: Update latest releases and repo cards
 
 on:
   schedule:
@@ -13,14 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Rebuild the Latest block
+      - name: Rebuild the Latest block and the repo cards
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: ./scripts/latest-releases.sh
+        run: |
+          ./scripts/latest-releases.sh
+          python3 scripts/gen_cards.py
       - name: Commit if changed
         run: |
-          if git diff --quiet README.md; then exit 0; fi
+          if git diff --quiet README.md assets/cards; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Update latest releases"
+          git commit -am "Update latest releases and repo cards"
           git push
