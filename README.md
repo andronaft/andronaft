@@ -46,21 +46,21 @@ A browser extension: colored levels, stack traces that stick together, field fil
 <td width="50%" valign="top">
 
 #### 🗜️ [FileForge](https://github.com/andronaft/FileForge)
-*Crop, compress, merge, convert. Your files never leave your device.*
+*Your files never leave your device.*
 
-22 image, PDF and text tools in one browser extension and web app: crop, resize, compress to a target size, HEIC → JPG, strip EXIF and GPS, merge/split/watermark PDFs, Markdown → PDF, CSV ⇄ JSON. No server, no accounts, works offline.
+A browser extension and web app with 22 tools: crop, resize, compress, HEIC → JPG, strip EXIF, merge and split PDFs, Markdown → PDF. No server, no accounts, works offline.
 
-`JavaScript` `Chrome` `Firefox` `PWA` · [Chrome Web Store](https://chromewebstore.google.com/detail/lmnnhcoblacbhagicaambfbbmbpnachn) · [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/fileforge-image-pdf-file-tools/)
+`JavaScript` `Chrome` `Firefox` `PWA`
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <a href="https://github.com/andronaft/k8s-guardian"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andronaft&repo=k8s-guardian&theme=tokyonight&hide_border=true" alt="k8s-guardian"></a>
-  <a href="https://github.com/andronaft/health-os"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andronaft&repo=health-os&theme=tokyonight&hide_border=true" alt="health-os"></a>
-  <a href="https://github.com/andronaft/Logbeam"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andronaft&repo=Logbeam&theme=tokyonight&hide_border=true" alt="Logbeam"></a>
-  <a href="https://github.com/andronaft/FileForge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=andronaft&repo=FileForge&theme=tokyonight&hide_border=true" alt="FileForge"></a>
+  <a href="https://github.com/andronaft/k8s-guardian"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andronaft&repo=k8s-guardian&theme=tokyonight&hide_border=true" alt="k8s-guardian"></a>
+  <a href="https://github.com/andronaft/health-os"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andronaft&repo=health-os&theme=tokyonight&hide_border=true" alt="health-os"></a>
+  <a href="https://github.com/andronaft/Logbeam"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andronaft&repo=Logbeam&theme=tokyonight&hide_border=true" alt="Logbeam"></a>
+  <a href="https://github.com/andronaft/FileForge"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=andronaft&repo=FileForge&theme=tokyonight&hide_border=true" alt="FileForge"></a>
 </div>
 
 ### 📦 Latest releases
