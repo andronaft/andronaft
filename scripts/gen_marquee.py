@@ -13,7 +13,8 @@ TEXT = (
     "Hi, I'm Andrii \U0001F44B"
     "  ◆  I build guardrails for Kubernetes"
     "  ◆  MCP servers for AI agents"
-    "  ◆  and tools that make logs readable again"
+    "  ◆  tools that make logs readable again"
+    "  ◆  and file tools that never leave your browser"
 )
 
 COLS = 104         # visible columns of the display
