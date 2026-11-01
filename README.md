@@ -48,7 +48,7 @@ A browser extension: colored levels, stack traces that stick together, field fil
 #### 🗜️ [FileForge](https://github.com/andronaft/FileForge)
 *Your files never leave your device.*
 
-A browser extension and web app with 22 tools: crop, resize, compress, HEIC → JPG, strip EXIF, merge and split PDFs, Markdown → PDF. No server, no accounts, works offline.
+A browser extension and web app with 24 tools: crop, resize, compress, HEIC → JPG, strip EXIF, merge and split PDFs, PDF → text, Markdown → PDF. No server, no accounts, works offline.
 
 `JavaScript` `Chrome` `Firefox` `PWA`
 
