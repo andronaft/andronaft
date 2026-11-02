@@ -48,7 +48,7 @@ A browser extension: colored levels, stack traces that stick together, field fil
 #### 🗜️ [FileForge](https://github.com/andronaft/FileForge)
 *Your files never leave your device.*
 
-A browser extension and web app with 24 tools: crop, resize, compress, HEIC → JPG, strip EXIF, merge and split PDFs, PDF → text, Markdown → PDF. No server, no accounts, works offline.
+A browser extension and web app with 26 tools: crop, resize, compress, HEIC → JPG, strip EXIF, merge and split PDFs, PDF → text, Markdown → PDF. No server, no accounts, works offline.
 
 `JavaScript` `Chrome` `Firefox` `PWA`
 
@@ -66,11 +66,11 @@ A browser extension and web app with 24 tools: crop, resize, compress, HEIC → 
 ### 📦 Latest releases
 
 <!-- LATEST:START -->
+- 🚀 **[FileForge v0.5.0](https://github.com/andronaft/FileForge/releases/tag/v0.5.0)** · 2026-11-02
 - 🚀 **[FileForge v0.4.0](https://github.com/andronaft/FileForge/releases/tag/v0.4.0)** · 2026-11-01
 - 🚀 **[FileForge v0.3.1](https://github.com/andronaft/FileForge/releases/tag/v0.3.1)** · 2026-10-29
 - 🚀 **[Logbeam v0.9.0](https://github.com/andronaft/Logbeam/releases/tag/v0.9.0)** · 2026-10-21
 - 🚀 **[health-os v0.3.0](https://github.com/andronaft/health-os/releases/tag/v0.3.0)** · 2026-10-18
-- 🚀 **[Logbeam v0.8.0](https://github.com/andronaft/Logbeam/releases/tag/v0.8.0)** · 2026-10-15
 <!-- LATEST:END -->
 
 ### 🧪 What I'm into
