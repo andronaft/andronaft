@@ -66,11 +66,11 @@ A browser extension and web app with 24 tools: crop, resize, compress, HEIC → 
 ### 📦 Latest releases
 
 <!-- LATEST:START -->
+- 🚀 **[FileForge v0.4.0](https://github.com/andronaft/FileForge/releases/tag/v0.4.0)** · 2026-11-01
 - 🚀 **[FileForge v0.3.1](https://github.com/andronaft/FileForge/releases/tag/v0.3.1)** · 2026-10-29
 - 🚀 **[Logbeam v0.9.0](https://github.com/andronaft/Logbeam/releases/tag/v0.9.0)** · 2026-10-21
 - 🚀 **[health-os v0.3.0](https://github.com/andronaft/health-os/releases/tag/v0.3.0)** · 2026-10-18
 - 🚀 **[Logbeam v0.8.0](https://github.com/andronaft/Logbeam/releases/tag/v0.8.0)** · 2026-10-15
-- 🚀 **[Logbeam v0.7.0](https://github.com/andronaft/Logbeam/releases/tag/v0.7.0)** · 2026-10-13
 <!-- LATEST:END -->
 
 ### 🧪 What I'm into
