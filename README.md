@@ -54,14 +54,19 @@ A browser extension and web app with 51 tools: crop, resize, adjust, collage, co
 
 </td>
 </tr>
-</table>
+<tr>
+<td colspan="2" valign="top">
 
-<div align="center">
-  <a href="https://github.com/andronaft/k8s-guardian"><img src="assets/cards/k8s-guardian.svg" alt="k8s-guardian"></a>
-  <a href="https://github.com/andronaft/health-os"><img src="assets/cards/health-os.svg" alt="health-os"></a>
-  <a href="https://github.com/andronaft/Logbeam"><img src="assets/cards/Logbeam.svg" alt="Logbeam"></a>
-  <a href="https://github.com/andronaft/FileForge"><img src="assets/cards/FileForge.svg" alt="FileForge"></a>
-</div>
+#### ☕ [jvm-fit](https://github.com/andronaft/jvm-fit)
+*"Will this JVM actually fit in its container?"*
+
+Reads your pod spec and JVM flags together and tells you before deploy: heap plus non-heap against the memory limit, CPU limits and GC choice, probes. Rules verified on real JDKs.
+
+`Go` `Kubernetes` `JVM`
+
+</td>
+</tr>
+</table>
 
 ### 📦 Latest releases
 
@@ -101,7 +106,10 @@ On the side I'm building about two dozen small Flutter apps for Android and iOS,
 2. Open the [testers page](https://zhukovskyi.space/testers/) on your phone, tap "Become a tester" and install the app from Google Play.
 3. Keep it installed for 14 days. Opening it now and then helps a lot.
 
+**Have an iPhone?** The first apps are on their way to the App Store, and Apple sends TestFlight invites by email. Fill in the [sign-up form](https://forms.gle/Vn9wgynXFbegDsWS7), choose iPhone, and I'll send you the link.
+
 <p>
   <a href="https://groups.google.com/g/test-dre-application"><img src="https://img.shields.io/badge/Become_a_tester-Google_Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Become a tester"></a>
+  <a href="https://forms.gle/Vn9wgynXFbegDsWS7"><img src="https://img.shields.io/badge/Become_a_tester-TestFlight-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Become a tester on TestFlight"></a>
   <a href="https://zhukovskyi.space/apps/"><img src="https://img.shields.io/badge/See_all_apps-zhukovskyi.space%2Fapps-36BCF7?style=for-the-badge" alt="See all apps"></a>
 </p>
