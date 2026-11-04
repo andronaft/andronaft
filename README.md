@@ -48,7 +48,7 @@ A browser extension: colored levels, stack traces that stick together, field fil
 #### 🗜️ [FileForge](https://github.com/andronaft/FileForge)
 *Your files never leave your device.*
 
-A browser extension and web app with 42 tools: crop, resize, adjust, compress, HEIC → JPG, strip EXIF, merge, split and crop PDFs, PDF → text, Markdown → PDF, diff, hashes, QR codes, and a pipeline that chains them. Ukrainian and English UI. No server, no accounts, works offline.
+A browser extension and web app with 51 tools: crop, resize, adjust, collage, compress, HEIC → JPG, SVG → PNG, strip EXIF, merge, split, booklet and fill PDF forms, PDF → text, Markdown → PDF, rename files, diff, hashes, QR codes, and a pipeline that chains them. Ukrainian and English UI. No server, no accounts, works offline.
 
 `JavaScript` `Chrome` `Firefox` `PWA`
 
@@ -66,11 +66,11 @@ A browser extension and web app with 42 tools: crop, resize, adjust, compress, H
 ### 📦 Latest releases
 
 <!-- LATEST:START -->
+- 🚀 **[FileForge v1.1.0](https://github.com/andronaft/FileForge/releases/tag/v1.1.0)** · 2026-11-04
 - 🚀 **[FileForge v1.0.0](https://github.com/andronaft/FileForge/releases/tag/v1.0.0)** · 2026-11-03
 - 🚀 **[FileForge v0.6.0](https://github.com/andronaft/FileForge/releases/tag/v0.6.0)** · 2026-11-03
 - 🚀 **[FileForge v0.5.0](https://github.com/andronaft/FileForge/releases/tag/v0.5.0)** · 2026-11-02
 - 🚀 **[FileForge v0.4.0](https://github.com/andronaft/FileForge/releases/tag/v0.4.0)** · 2026-11-01
-- 🚀 **[FileForge v0.3.1](https://github.com/andronaft/FileForge/releases/tag/v0.3.1)** · 2026-10-29
 <!-- LATEST:END -->
 
 ### 🧪 What I'm into
