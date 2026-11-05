@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 # Rewrites the block between LATEST:START and LATEST:END in README.md
-# with the most recent releases of the owner's public repositories.
+# with the most recent releases of the owner's public repositories,
+# one line per repository (its newest release), so one busy repo
+# does not fill the whole list.
 set -euo pipefail
 OWNER="${OWNER:-andronaft}"
 LIMIT="${LIMIT:-5}"
@@ -15,6 +17,7 @@ query($owner: String!) {
   }
 }' --jq '[.data.user.repositories.nodes[] | .name as $r | .releases.nodes[]
           | select(.isDraft | not) | {repo: $r, tag: .tagName, ts: .publishedAt, date: .publishedAt[:10], url: .url}]
+        | group_by(.repo) | map(max_by(.ts))
         | sort_by(.ts) | reverse | .['":$LIMIT"'][]
         | "- 🚀 **[\(.repo) \(.tag)](\(.url))** · \(.date)"')
 
