@@ -92,7 +92,7 @@ Reads your pod spec and JVM flags together and tells you before deploy: heap plu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andronaft&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="150">
+<img src="assets/top-langs.svg" alt="Top languages" height="150">
 </div>
 
 ### 📱 Building right now: mobile apps, and I need testers

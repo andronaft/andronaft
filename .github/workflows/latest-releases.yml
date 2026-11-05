@@ -18,10 +18,15 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           ./scripts/latest-releases.sh
+      - name: Rebuild the Top languages card
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/gen_top_langs.py
       - name: Commit if changed
         run: |
-          if git diff --quiet README.md; then exit 0; fi
+          git add README.md assets/top-langs.svg
+          if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "Update latest releases"
+          git commit -m "Update latest releases and languages"
           git push

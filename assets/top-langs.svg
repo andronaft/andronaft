@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="190" viewBox="0 0 300 190" role="img" aria-label="Most used languages">
+<style>
+.title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #70a5fd; }
+.lang { font: 400 11px 'Segoe UI', Ubuntu, sans-serif; fill: #38bdae; }
+</style>
+<rect width="300" height="190" rx="4.5" fill="#1a1b27"/>
+<text x="25" y="35" class="title">Most Used Languages</text>
+<defs><clipPath id="bar"><rect width="250" height="8" rx="5"/></clipPath></defs>
+<g transform="translate(25,55)" clip-path="url(#bar)"><rect x="0.00" y="0" width="53.89" height="8" fill="#3572A5"/><rect x="53.89" y="0" width="52.72" height="8" fill="#b07219"/><rect x="106.62" y="0" width="51.00" height="8" fill="#00ADD8"/><rect x="157.62" y="0" width="48.94" height="8" fill="#f1e05a"/><rect x="206.56" y="0" width="25.67" height="8" fill="#3178c6"/><rect x="232.23" y="0" width="8.00" height="8" fill="#663399"/><rect x="240.23" y="0" width="6.14" height="8" fill="#e34c26"/><rect x="246.37" y="0" width="3.63" height="8" fill="#f34b7d"/></g>
+<g transform="translate(25,80)"><g transform="translate(0,0)"><circle cx="5" cy="6" r="5" fill="#3572A5"/><text x="15" y="10" class="lang">Python 21.56%</text></g><g transform="translate(150,0)"><circle cx="5" cy="6" r="5" fill="#b07219"/><text x="15" y="10" class="lang">Java 21.09%</text></g><g transform="translate(0,25)"><circle cx="5" cy="6" r="5" fill="#00ADD8"/><text x="15" y="10" class="lang">Go 20.40%</text></g><g transform="translate(150,25)"><circle cx="5" cy="6" r="5" fill="#f1e05a"/><text x="15" y="10" class="lang">JavaScript 19.58%</text></g><g transform="translate(0,50)"><circle cx="5" cy="6" r="5" fill="#3178c6"/><text x="15" y="10" class="lang">TypeScript 10.27%</text></g><g transform="translate(150,50)"><circle cx="5" cy="6" r="5" fill="#663399"/><text x="15" y="10" class="lang">CSS 3.20%</text></g><g transform="translate(0,75)"><circle cx="5" cy="6" r="5" fill="#e34c26"/><text x="15" y="10" class="lang">HTML 2.46%</text></g><g transform="translate(150,75)"><circle cx="5" cy="6" r="5" fill="#f34b7d"/><text x="15" y="10" class="lang">C++ 1.45%</text></g></g>
+</svg>
