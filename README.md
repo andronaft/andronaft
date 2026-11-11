@@ -71,7 +71,7 @@ Reads your pod spec and JVM flags together and tells you before deploy: heap plu
 ### 📦 Latest releases
 
 <!-- LATEST:START -->
-- 🚀 **[jvm-fit v0.1.0](https://github.com/andronaft/jvm-fit/releases/tag/v0.1.0)** · 2026-11-08
+- 🚀 **[jvm-fit v0.1.1](https://github.com/andronaft/jvm-fit/releases/tag/v0.1.1)** · 2026-11-11
 - 🚀 **[FileForge v1.1.0](https://github.com/andronaft/FileForge/releases/tag/v1.1.0)** · 2026-11-04
 - 🚀 **[Logbeam v0.9.0](https://github.com/andronaft/Logbeam/releases/tag/v0.9.0)** · 2026-10-21
 - 🚀 **[health-os v0.3.0](https://github.com/andronaft/health-os/releases/tag/v0.3.0)** · 2026-10-18
