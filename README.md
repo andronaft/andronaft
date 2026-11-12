@@ -5,6 +5,8 @@
   <img src="assets/marquee.svg" alt="Hi, I'm Andrii 👋 I build guardrails for Kubernetes, MCP servers for AI agents, tools that make logs readable again, and file tools that never leave your browser" width="560">
 </p>
 
+<p align="center">🌐 <b><a href="https://zhukovskyi.space/">zhukovskyi.space</a></b>: blog, open-source tools and Dre Dev apps</p>
+
 </div>
 
 ### 🛠️ Things I'm building
