@@ -73,11 +73,11 @@ Reads your pod spec and JVM flags together and tells you before deploy: heap plu
 ### 📦 Latest releases
 
 <!-- LATEST:START -->
+- 🚀 **[k8s-guardian v0.8.0](https://github.com/andronaft/k8s-guardian/releases/tag/v0.8.0)** · 2026-11-20
+- 🚀 **[Logbeam v0.10.0](https://github.com/andronaft/Logbeam/releases/tag/v0.10.0)** · 2026-11-20
+- 🚀 **[health-os v0.4.0](https://github.com/andronaft/health-os/releases/tag/v0.4.0)** · 2026-11-20
+- 🚀 **[jvm-fit v0.1.2](https://github.com/andronaft/jvm-fit/releases/tag/v0.1.2)** · 2026-11-20
 - 🚀 **[FileForge v1.7.0](https://github.com/andronaft/FileForge/releases/tag/v1.7.0)** · 2026-11-18
-- 🚀 **[jvm-fit v0.1.1](https://github.com/andronaft/jvm-fit/releases/tag/v0.1.1)** · 2026-11-11
-- 🚀 **[Logbeam v0.9.0](https://github.com/andronaft/Logbeam/releases/tag/v0.9.0)** · 2026-10-21
-- 🚀 **[health-os v0.3.0](https://github.com/andronaft/health-os/releases/tag/v0.3.0)** · 2026-10-18
-- 🚀 **[k8s-guardian v0.7.0](https://github.com/andronaft/k8s-guardian/releases/tag/v0.7.0)** · 2026-10-12
 <!-- LATEST:END -->
 
 ### 🧪 What I'm into
